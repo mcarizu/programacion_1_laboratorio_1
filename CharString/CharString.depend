@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523279705 source:c:\test\matias\charstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
