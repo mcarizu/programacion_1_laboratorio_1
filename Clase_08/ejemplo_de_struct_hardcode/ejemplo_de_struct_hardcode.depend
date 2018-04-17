@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523973543 source:c:\test\matias\ejemplo_de_struct_hardcode\main.c
+	<stdio.h>
+	<stdlib.h>
+
